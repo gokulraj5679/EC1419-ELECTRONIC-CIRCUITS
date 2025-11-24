@@ -6,9 +6,9 @@
 <img width="760" height="462" alt="image" src="https://github.com/user-attachments/assets/eeff6a23-1fb7-494b-a99d-c05b574526f8" />
 <img width="902" height="543" alt="image" src="https://github.com/user-attachments/assets/e09654e3-d35b-4312-8f5a-d54cb1aa47bc" />
 
+![Uploading image.png…]()
 
-# Tabulation with readings
+![Uploading image.png…]()
 
-## Semilog plotted Graph
 
 <img width="697" height="292" alt="image" src="https://github.com/user-attachments/assets/931385be-3c78-4682-a10c-1924b3faa1d4" />
